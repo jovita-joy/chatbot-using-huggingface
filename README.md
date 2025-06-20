@@ -51,3 +51,4 @@ You can swap flan-t5-small with any other Seq2Seq model from Hugging Face (e.g.,
 Extend chat_memory.py to add logging or longer-term memory.
 
 ## OUTPUT
+![Image](https://github.com/user-attachments/assets/a69e6be9-0969-494b-8af8-446d972cc40d)
